@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productstringify",
+        "uuid": 11097010,
+        "checksum": "mg35do"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
